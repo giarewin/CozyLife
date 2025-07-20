@@ -2,10 +2,10 @@
     "domain": "bettercozylife",
     "name": "BetterCozyLife",
     "config_flow": true,
-    "documentation": "https://github.com/iiroan/bettercozylife",
+    "documentation": "https://github.com/giarewin/CozyLife",
     "dependencies": [],
-    "codeowners": ["@iiroan"],
-    "issue_tracker": "https://github.com/iiroan/bettercozylife/issues",
+    "codeowners": ["@giarewin"],
+    "issue_tracker": "https://github.com/giarewin/CozyLife",
     "requirements": [],
     "iot_class": "local_polling",
     "version": "1.0.1"
