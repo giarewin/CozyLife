@@ -5,7 +5,6 @@
     "documentation": "https://github.com/giarewin/CozyLife",
     "dependencies": [],
     "codeowners": ["@giarewin"],
-    "logo": "icon.png",
     "issue_tracker": "https://github.com/giarewin/CozyLife/issues",
     "requirements": [],
     "iot_class": "local_polling",
