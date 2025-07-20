@@ -1,0 +1,3 @@
+giải nén và chép thư mục bettercozylife và trong thư mục custom_components -> khởi động lại HASS
+
+custom_components/bettercozylife
