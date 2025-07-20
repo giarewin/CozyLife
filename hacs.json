@@ -6,5 +6,6 @@
     "issue_tracker": "https://github.com/giarewin/CozyLife/issues",
     "content_in_root": false,
     "homeassistant": "2025.1.0",
-    "logo": "images/icon.png"
+    "logo": "images/icon.png",
+    "icon": "images/icon.png"
   }
