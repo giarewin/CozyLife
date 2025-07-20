@@ -1,9 +1,9 @@
 {
-    "name": "Better CozyLife",
+    "name": "CozyLife Plug",
     "render_readme": true,
-    "domain": "bettercozylife",
+    "domain": "cozylife_plug",
     "documentation": "https://github.com/giarewin/CozyLife",
     "issue_tracker": "https://github.com/giarewin/CozyLife/issues",
     "content_in_root": false,
-    "homeassistant": "2025.1.0"
+    "homeassistant": "2025.7.20"
   }
