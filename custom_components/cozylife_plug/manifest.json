@@ -1,6 +1,6 @@
 {
     "domain": "cozylife_plug",
-    "name": "Cozylife Plug",
+    "name": "Cozylife_Plug",
     "config_flow": true,
     "documentation": "https://github.com/giarewin/CozyLife",
     "dependencies": [],
