@@ -1,0 +1,9 @@
+{
+    "name": "Better CozyLife",
+    "render_readme": true,
+    "domain": "bettercozylife",
+    "documentation": "https://github.com/giarewin/CozyLife",
+    "issue_tracker": "https://github.com/giarewin/CozyLife/issues",
+    "content_in_root": false,
+    "homeassistant": "2025.1.0"
+  }
