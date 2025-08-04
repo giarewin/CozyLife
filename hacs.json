@@ -1,11 +1,9 @@
 {
-    "name": "CozyLife Smart Plug",
+    "name": "Ổ Cắm Cozy Life",
     "render_readme": true,
-    "domain": "cozylife_plug",
-    "documentation": "https://github.com/giarewin/CozyLife",
-    "issue_tracker": "https://github.com/giarewin/CozyLife/issues",
+    "domain": "cozylife",
+    "documentation": "https://github.com/giarewin/cozylife",
+    "issue_tracker": "https://github.com/giarewin/cozylife/issues",
     "content_in_root": false,
-    "homeassistant": "2025.1.0",
-    "logo": "images/icon.png",
-    "icon": "images/icon.png"
+    "homeassistant": "2025.1.0"
   }
